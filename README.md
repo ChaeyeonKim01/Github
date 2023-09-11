@@ -127,3 +127,4 @@ GPT-4는 월 20달러를 지불하는 유료 서비스인 챗GPT플러스(ChatGP
 ---
 
 ## 후기
+git, github 공부 완료! Computer Vision 프로젝트와 논문 작성을 목표로 6개월간 달려보자.
